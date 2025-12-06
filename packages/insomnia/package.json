@@ -149,7 +149,7 @@
   },
   "devDependencies": {
     "@develohpanda/fluent-builder": "^2.1.2",
-    "@modelcontextprotocol/sdk": "^1.17.5",
+    "@modelcontextprotocol/sdk": "^1.19.0",
     "@react-router/dev": "^7.9.4",
     "@tailwindcss/vite": "^4.1.17",
     "@testing-library/dom": "^10.4.1",
